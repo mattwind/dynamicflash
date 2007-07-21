@@ -1,15 +1,17 @@
-#summary Getting started
 #labels Phase-Deploy
-
-This widget uses flash, and PHP to make a simple beautiful slide show. Looks great on the side of your web page.
-
+This widget uses flash, and PHP to make a simple slide show. Looks great on the side of your web page. Great eye candy!
 
 = Details =
 
 Simple steps to get started
+
   * Resize your photos to 300x200
-  * Download all the DynamicFlash files
-  * Upload them to your server
-  * Create and upload photos to a folder ie. "slideshow"
-  * Edit images.php to match your directory
-  * Embed the flash widget into your HTML
+  * Download all the DynamicFlash zip file
+  * Unzip and Upload them to your server
+  * Create and upload resized photos to a folder ie. "slideshow"
+  * Edit images.php to match your slid show directory
+  * Embed the flash widget code into your HTML
+
+Check out the example file in the zip archive, if you have any questions join the resistor.
+
+http://groups.google.com/group/resistor
