@@ -14,17 +14,3 @@ Simple steps to get started
   * Create and upload photos to a folder ie. "slideshow"
   * Edit images.php to match your directory
   * Embed the flash widget into your HTML
-
-
-<code>
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" name="Gallery"
- width="300" height="230" align="middle" id="Gallery">
-    <param name="movie" value="gallery.swf"/>
-    <param name="quality" value="high" />
-    <param name="scale" value="noborder" />
-    <param name="salign" value="lt" />
-    <param name="bgcolor" value="#000000" />
-    <embed src="gallery.swf" width="300" height="230" align="middle" quality="high" bgcolor="#000000" name="Gallery" scale="noborder" salign="lt" type="application/x-shockwave-flash"
- pluginspage="http://www.macromedia.com/go/getflashplayer" />
-  </object>
-</code>
