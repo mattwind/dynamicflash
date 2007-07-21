@@ -1,6 +1,7 @@
 #summary Getting started
+#labels Phase-Deploy
 
-This widget uses flash, .htaccess file, and PHP to make a simple beautiful slide show. Looks great on the side of your web page.
+This widget uses flash, and PHP to make a simple beautiful slide show. Looks great on the side of your web page.
 
 
 = Details =
