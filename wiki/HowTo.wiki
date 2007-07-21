@@ -11,12 +11,11 @@ This widget make a simple slide show, it looks great on the side of your web pag
   * [http://dynamicflash.googlecode.com/files/df_widget.zip Download] the zip file
   * Unzip and Upload them to your server
   * Create and upload resized photos to a folder ie. "slideshow"
-  * Edit images.php to match your slid show directory
+  * Edit images.php to match your slide show directory
   * Embed the flash widget code into your HTML
 
 Check out the example file in the zip archive, if you have any questions join the resistor.
 
 http://groups.google.com/group/resistor
-
 
 
