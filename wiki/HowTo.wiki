@@ -1,7 +1,5 @@
 #summary Getting started
 
-= Introduction =
-
 This widget uses flash, .htaccess file, and PHP to make a simple beautiful slide show. Looks great on the side of your web page.
 
 
