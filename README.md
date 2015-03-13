@@ -19,7 +19,7 @@ Ported this project from my old google code repository, beware this project is o
 
 ##Installation
 * Resize your photos to 300x200
-* http://dynamicflash.googlecode.com/files/df_widget.zip
+* https://github.com/mattwind/dynamicflash/tree/master/demo
 * Unzip and Upload them to your server
 * Create and upload resized photos to a folder ie. "slideshow"
 * Edit images.php to match your slide show directory
