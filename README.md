@@ -2,7 +2,7 @@
 
 You want a simple way to display images in a directory? This flash widget does just that and dynamically generates the flash gallery on the fly. View the images by toggling the slide show, click the previous and next arrows or use the right and left keys to navigate the flash gallery.
 
-<img src="http://dynamicflash.googlecode.com/files/screenshot.jpg">
+<img src="https://raw.githubusercontent.com/mattwind/dynamicflash/master/screenshot.jpg">
 
 ##Latest update
 Ported this project from my old google code repository, beware this project is old!
