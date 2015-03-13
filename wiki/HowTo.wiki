@@ -1,12 +1,12 @@
 This widget can make a simple slide show, it looks great on the side of your web page.
 
 == Requirements ==
-* [PHP](http://www.php.net)
-* [Adobe Flash Player] (http://www.adobe.com)
+* http://www.php.net
+* http://www.adobe.com
 
 == Installation ==
 * Resize your photos to 300x200
-* [Download](http://dynamicflash.googlecode.com/files/df_widget.zip) the zip file
+* http://dynamicflash.googlecode.com/files/df_widget.zip
 * Unzip and Upload them to your server
 * Create and upload resized photos to a folder ie. "slideshow"
 * Edit images.php to match your slide show directory
