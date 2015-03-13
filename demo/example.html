@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset='utf-8'>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<title>Dynamic Flash Slide Show</title>
+	<style>
+	.df {
+	padding:5px;
+	width:300px;
+	background-color:#000000;
+	text-align:center;
+	-webkit-border-radius: 4px;
+	-moz-border-radius: 4px;
+	border-radius: 4px;
+	}
+	</style>
+</head>
+<body>
+	<h1>Dynamic Flash Slide Show</h1>
+	<div class="df">
+		<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000"
+		 codebase="http://fpdownload.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" name="Gallery"
+		 width="300" height="230" align="middle" id="Gallery">
+		  <param name="movie" value="df_300x200.swf"/>
+		  <param name="quality" value="high" />
+		  <param name="scale" value="noborder" />
+		  <param name="salign" value="lt" />
+		  <param name="bgcolor" value="#000000" />
+		  <embed src="df_300x200.swf" width="300" height="230" align="middle" quality="high" bgcolor="#000000"
+		 name="Gallery" scale="noborder" salign="lt" type="application/x-shockwave-flash"
+		 pluginspage="http://www.macromedia.com/go/getflashplayer" />
+		</object>
+	</div>
+	<p>
+		<a href="https://github.com/mattwind/dynamicflash">https://github.com/mattwind/dynamicflash</a>
+	</p>
+</body>
+</html>
