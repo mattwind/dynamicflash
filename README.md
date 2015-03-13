@@ -24,7 +24,3 @@ Ported this project from my old google code repository, beware this project is o
 * Create and upload resized photos to a folder ie. "slideshow"
 * Edit images.php to match your slide show directory
 * Embed the flash widget code into your HTML
-
-Check out the example file in the zip archive, if you have any questions join the resistor.
-
-http://groups.google.com/group/resistor
