@@ -1,18 +1,16 @@
-#labels Phase-Deploy
-This widget make a simple slide show, it looks great on the side of your web page.
+This widget can make a simple slide show, it looks great on the side of your web page.
 
-= Requirements ==
-  * [http://www.php.net/ PHP]
-  * [http://www.adobe.com/ Adobe Flash Player]
+== Requirements ==
+* [PHP](http://www.php.net)
+* [Adobe Flash Player] (http://www.adobe.com)
 
 == Installation ==
-
-  * Resize your photos to 300x200
-  * [http://dynamicflash.googlecode.com/files/df_widget.zip Download] the zip file
-  * Unzip and Upload them to your server
-  * Create and upload resized photos to a folder ie. "slideshow"
-  * Edit images.php to match your slide show directory
-  * Embed the flash widget code into your HTML
+* Resize your photos to 300x200
+* [Download](http://dynamicflash.googlecode.com/files/df_widget.zip) the zip file
+* Unzip and Upload them to your server
+* Create and upload resized photos to a folder ie. "slideshow"
+* Edit images.php to match your slide show directory
+* Embed the flash widget code into your HTML
 
 Check out the example file in the zip archive, if you have any questions join the resistor.
 
